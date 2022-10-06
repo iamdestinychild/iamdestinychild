@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/vector-illustration-mountain-landscape_1441-72.jpg?w=740&t=st=1665031015~exp=1665031615~hmac=47d38150be97a64e6cd46e4470dd534116aa4605fba7339e240e31982801f8a4)]
+[![MasterHead](https://img.freepik.com/free-vector/night-ocean-landscape-full-moon-stars-shine_107791-7397.jpg?w=1380&t=st=1665031115~exp=1665031715~hmac=3f6baacf7be025315de33c5f3d185ef9a619ea14ad00a3e6dee979971122a78b)]
 <h1 align="center">Hi 👋, I'm Destiny Omoruyi</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
