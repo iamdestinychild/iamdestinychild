@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdestinychild&label=Profile%20views&color=0e75b6&style=flat" alt="iamdestinychild" /> </p>
 
-<p align="left"> <a href="https://twitter.com/brickcoder" target="blank"><img src="https://img.shields.io/twitter/follow/brickcoder?logo=twitter&style=for-the-badge" alt="brickcoder" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/brickcoder"](https://x.com/hezdestinychild) target="blank"><img src="https://img.shields.io/twitter/follow/brickcoder?logo=twitter&style=for-the-badge" alt="brickcoder" /></a> </p>
 
 - 👯 I’m looking to collaborate on **open source projects**
 
